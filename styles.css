@@ -1,0 +1,25 @@
+/* Copy and paste your CSS from CodePen into here */
+#image {
+    display: block;
+    max-width:100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+
+  #title {
+    display: block;
+    margin-left: 150px;
+    margin-right: auto;
+    
+  }
+
+  #img-caption {
+    display: block;
+    max-width:100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;  
+
+  }
